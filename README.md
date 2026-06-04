@@ -1,3 +1,3 @@
 # Gamework
-Library build on the top of Pygame.
+Pygame Add-on.
 includes classes Object, Entity, Player, Camera, Interface, Joystick and function converter_alpha()
